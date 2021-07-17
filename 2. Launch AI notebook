@@ -1,0 +1,8 @@
+Launch AI Platform Notebooks
+
+Click on the Navigation Menu. Navigate to AI Platform, then to Notebooks.
+
+
+On the Notebook instances page, click NEW INSTANCE. Select TensorFlow Enterprise and choose a 1.XX version of TensorFlow (not 2.0) without GPUs.
+
+open jupyterlab
