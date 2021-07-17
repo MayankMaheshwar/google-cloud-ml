@@ -1,0 +1,6 @@
+To clone the training-data-analyst notebook in your JupyterLab instance:
+
+In JupyterLab, click the Terminal icon to open a new terminal.
+
+git clone https://github.com/GoogleCloudPlatform/training-data-analyst
+
